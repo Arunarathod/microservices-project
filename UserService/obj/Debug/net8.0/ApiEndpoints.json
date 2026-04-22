@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "UserService.Controllers.UserController",
+    "Method": "CreateUser",
+    "RelativePath": "api/user",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "UserService.Controllers.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
